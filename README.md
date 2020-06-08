@@ -1,4 +1,4 @@
-# Flutter snackbar ample
+# Flutter snackbar sample
 
 [Display a snackbar  - Flutter](https://flutter.dev/docs/cookbook/design/snackbars)
 
